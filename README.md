@@ -46,3 +46,8 @@ unzip super-search.skill -d .claude/skills/
 ├── SKILL.md              # 워크플로우
 └── references/EXECUTE.md # 상세 가이드
 ```
+
+## TODO
+
+- [ ] **Ralph Loop 통합** - 기관산탄총 모드
+  - 병렬 검색 (산탄총) + 반복 심화 (기관총) = 기관산탄총
