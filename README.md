@@ -26,6 +26,19 @@
 Executive Summary → Findings (신뢰도 포함) → Sources → Gaps → Follow-up
 ```
 
+## 설치
+
+**Option 1: 직접 복사**
+```
+.claude/skills/super-search/ 폴더를 프로젝트에 복사
+```
+
+**Option 2: .skill 파일 사용**
+```bash
+# super-search.skill = 배포용 zip 패키지
+unzip super-search.skill -d .claude/skills/
+```
+
 ## 파일 구조
 
 ```
